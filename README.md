@@ -45,16 +45,30 @@
 
 ---
 
-### 📊 GitHub Stats 💻
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4n1elliu&layout=compact&theme=tokyonight" height="150"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=d4n1elliu&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Streak stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=d4n1elliu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub stats card"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d4n1elliu&show_icons=true&theme=tokyonight" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=d4n1elliu&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top languages card"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4n1elliu&theme=tokyonight" height="160"/>
-</p>
+---
+
+<p>💡 “Keep learning. Keep building. Keep moving.” </p>
+
