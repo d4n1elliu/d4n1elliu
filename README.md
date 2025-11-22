@@ -47,7 +47,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=d4n1elliu&theme=tokyonight&hide_border=true"
     height="180"
@@ -60,7 +60,7 @@
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=d4n1elliu&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
