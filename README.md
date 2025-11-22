@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Liu</h1>
-<h3 align="center">Interaction Design & Computing Science (Honours) Student @ UTS</h3>
+<h3 align="center">Bachelor of Computing Science (Honours) Student @UTS</h3>
+<h4 align="center"> Interaction Design Major </h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=d4n1elliu&label=Profile%20Views&color=0e75b6&style=flat" alt="d4n1elliu" />
@@ -9,9 +10,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **EduMap**
+- 🧑‍💻 Currently working on **EduMap**
 - 🌱 Learning **React & TypeScript**
-- 🎧 Building **Spoti-List**
+- 🔭 Future projects left to complete **Spoti-List**
 - 📫 Reach me at **DL56386994@gmail.com**
 - ⚡ Interests: **Gym, Badminton, Gaming**
 
@@ -22,6 +23,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-liu-987b27252" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:DL56386994@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="37" height="35"/>
   </a>
 </p>
 
