@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4n1elliu&label=Profile%20views&color=0e75b6&style=flat" alt="d4n1elliu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4n1elliu" alt="d4n1elliu" /></a> </p>
-
 - 🔭 I’m currently working on **EduMap**
 
 - 🌱 I’m currently learning **React, TypeScript**
