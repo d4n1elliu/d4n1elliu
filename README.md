@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats ✨
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4n1elliu&layout=compact&theme=tokyonight" height="150"/>
