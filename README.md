@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Liu</h1>
-<h3 align="center">Bachelor of Computing Science (Honours) Student @UTS</h3>
-<h4 align="center"> Interaction Design Major </h4>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=d4n1elliu&label=Profile%20Views&color=0e75b6&style=flat" alt="d4n1elliu" />
-</p>
+<h3 align="center">Bachelor of Computing Science (Honours) Student, Interaction Design Major @UTS</h3>
 
 ---
 
