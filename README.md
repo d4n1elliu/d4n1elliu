@@ -8,13 +8,13 @@
 
 ---
 
-### 🚀 About Me
+### ✨ About Me ✨
 
-- 🧑‍💻 Currently working on **EduMap**
-- 🌱 Learning **React & TypeScript**
-- 🔭 Future projects left to complete **Spoti-List**
-- 📫 Reach me at **DL56386994@gmail.com**
-- ⚡ Interests: **Gym, Badminton, Gaming**
+- 🎨 Passionate about **Frontend Development & UX/UI Design**
+- 🧑‍💻 Currently developing features for **EduMap**, a student-focused web platform
+- 🌱 Currently learning and practising skills in **React, TypeScript, Blender, React Native, and Flutter** as part of my personal development
+- 🎧 Continue working on **Spoti-List**, an app integrating the Spotify Web API
+- ⚡ Hobbies: **Gym, Badminton, Gaming**
 
 ---
 
@@ -22,11 +22,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-liu-987b27252" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="37" height="33"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:DL56386994@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="37" height="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="37" height="33"/>
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats ✨
+### 📊 GitHub Stats 💻
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4n1elliu&layout=compact&theme=tokyonight" height="150"/>
