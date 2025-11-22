@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Liou</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Daniel Liu</h1>
+<h3 align="center">Interaction Design Computer Science Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4n1elliu&label=Profile%20views&color=0e75b6&style=flat" alt="d4n1elliu" /> </p>
 
