@@ -95,11 +95,6 @@
 
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=d4n1elliu&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="Streak stats"
-  />
-  <img
     src="https://github-readme-stats.vercel.app/api?username=d4n1elliu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="160"
     alt="GitHub stats card"
