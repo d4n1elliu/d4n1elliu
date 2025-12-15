@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Liu</h1>
+<h1 align="center">Hi, I'm Daniel Liu 👋</h1>
 <h3 align="center">Bachelor of Computing Science (Honours) Student, Interaction Design Major @UTS</h3>
 
 ---
