@@ -1,17 +1,22 @@
 <h1 align="center">Hi, I'm Daniel Liu 👋</h1>
-<h4 align="center">Bachelor of Computing Science (Honours) Student, Interaction Design Major @UTS</h4>
+<h4 align="center">Frontend Developer | Mobile App Developer | UTS BCompSc (Hons) @UTS</h4>
 
 ---
 
 ### ✨ About Me ✨
 
-- 🎨 Passionate about **Frontend Development & UX/UI Design**
-- 🧑‍💻 Currently developing features for **EduMap**, a student-focused web platform
-- 🌱 Currently learning and practising skills in **React, TypeScript, Blender, React Native, and Flutter** as part of my personal development
-- 🎧 Continue working on **Spoti-List**, an app integrating the Spotify Web API
-- ⚡ Hobbies: **Gym, Badminton, Gaming**
+- 🎨 Passionate about building clean, responsive, and user-focused interfaces
+- 🔍 Actively seeking **Software Engineering / Frontend / Mobile Internships**
+- 📱 Learning **Swift & Xcode** for iOS mobile development
+- 🌐 Developing skills in **Full Stack Web Development (React, Node.js, SQL/NoSQL)**
+- 🧩 Exploring **Blender** for creative side projects and 3D design
+- 🚀 Building projects like **Spoti-List** using the Spotify Web API
+- ⚡ Hobbies: Gym | Badminton | Gaming  
 
 ---
+
+🎓 UTS BCompSc (Hons)
+📍 Sydney, Australia
 
 ### 🧩 Tech Stack
 
