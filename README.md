@@ -85,25 +85,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=d4n1elliu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="160"
-    alt="GitHub stats card"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=d4n1elliu&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="Top languages card"
-  />
-</p>
-
----
-
 <p>💡 “Keep learning. Keep building. Keep moving.” </p>
 
