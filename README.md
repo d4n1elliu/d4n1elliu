@@ -85,5 +85,5 @@
 
 ---
 
-<p>💡 “Keep learning. Keep building. Keep moving.” </p>
+<p> 💡 “Keep learning. Keep building. Keep moving.” 💡 </p>
 
