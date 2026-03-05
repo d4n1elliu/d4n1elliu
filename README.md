@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel Liu 👋</h1>
-<h4 align="center">Frontend Developer | Mobile App Developer | UTS BCompSc (Hons) @UTS</h4>
+<h4 align="center">Full Stack Developer | UI/UX Designer | IOS Developer | UTS BCompSc (Hons) @UTS</h4>
 
 ---
 
