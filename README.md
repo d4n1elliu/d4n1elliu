@@ -8,7 +8,7 @@
 - 🎨 Passionate about building clean, responsive and user-focused interfaces
 - 🔍 Actively seeking **Software Engineering / Full Stack Development / Mobile/IOS development Internships**
 - 📱 Learning **Swift & Xcode** for iOS mobile development
-- 🌐 Developing skills in **Full Stack Web Development (React, TailwindCSS, Javascript, Node.js, [SuperBase] PostgresSQL, [Web Deployment] Microsoft Azure)**
+- 🌐 Developing skills in **Full Stack Web Development (React, TailwindCSS, Javascript, Node.js, PostgresSQL, Microsoft Azure)**
 - 🧩 Exploring **Blender** for creative side projects and 3D design
 - 🚀 Building projects like **Spoti-List** using the Spotify Web API
 - ⚡ Hobbies: Gym | Badminton | Gaming  
