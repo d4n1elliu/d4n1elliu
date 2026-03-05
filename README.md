@@ -6,7 +6,7 @@
 ### ✨ About Me ✨
 
 - 🎨 Passionate about building clean, responsive and user-focused interfaces
-- 🔍 Actively seeking **Software Engineering / Frontend / Mobile Internships**
+- 🔍 Actively seeking **Software Engineering / Full Stack Development / Mobile/IOS development Internships**
 - 📱 Learning **Swift & Xcode** for iOS mobile development
 - 🌐 Developing skills in **Full Stack Web Development (React, TailwindCSS, Javascript, Node.js, [SuperBase] PostgresSQL, [Web Deployment] Microsoft Azure)**
 - 🧩 Exploring **Blender** for creative side projects and 3D design
