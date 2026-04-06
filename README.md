@@ -14,12 +14,12 @@
 
 ### 💫 About Me
 
-I am a passionate developer focused on building clean, responsive, and user-centric digital experiences. Currently, I am expanding my expertise in mobile ecosystems and cloud architecture while seeking **Software Engineering Internships**.
+I am a passionate developer focused on building clean, responsive and user centric digital experiences. Currently, I am expanding my expertise in mobile ecosystems and cloud architecture while seeking **Software Engineering Internships**.
 
 * 📱 **Current Focus:** Masterng **Swift & Xcode** for native iOS development.
-* 🌐 **Web Tech:** Building scalable apps with **React, ASP.NET, and PostgreSQL**.
+* 🌐 **Web Tech:** Building scalable apps with **React, ASP.NET and PostgreSQL**.
 * 🧩 **Creative Side:** Leveraging **Blender** and **Figma** for 3D design and UI prototyping.
-* 🚀 **Latest Project:** [Spoti-List](https://github.com/d4n1elliu/spoti-list) — A Spotify Web API integration.
+* 🚀 **Upcoming Project:** [Spoti-List](https://github.com/d4n1elliu/spoti-list) : An upcoming B2C platform designed to transform Spotify Web API data into personalised daily insights for users.
 
 ---
 
