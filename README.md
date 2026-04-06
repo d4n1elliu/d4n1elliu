@@ -11,7 +11,6 @@
 - 🌐 Developing skills in **Full Stack Web Development (React, TailwindCSS, Javascript, Node.js, PostgresSQL, Microsoft Azure)**
 - 🧩 Exploring **Blender** for creative side projects and 3D design
 - 🚀 Building projects like **Spoti-List** using the Spotify Web API
-- ⚡ Hobbies: Gym | Badminton | Gaming  
 
 ---
 
