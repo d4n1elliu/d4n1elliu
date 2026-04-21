@@ -37,7 +37,7 @@ I am a passionate developer focused on building clean, responsive and user centr
 
 #### 🧰 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,c,cs,swift,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=swift,java,py,cpp,c,cs,html,css" alt="Languages" />
 </p>
 
 #### 🛠️ Tools
