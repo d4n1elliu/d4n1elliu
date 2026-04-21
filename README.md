@@ -44,8 +44,3 @@ I am a passionate developer focused on building clean, responsive and user centr
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,figma,blender,unity," alt="Tools" />
 </p>
-
-
-<p align="center">
-  <em>"Keep learning. Keep building. Keep moving."</em>
-</p>
