@@ -12,7 +12,7 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 I am a passionate developer focused on building clean, responsive and user centric digital experiences. Currently, I am expanding my expertise in mobile ecosystems and cloud architecture while seeking **Software Engineering Internships**.
 
@@ -23,7 +23,7 @@ I am a passionate developer focused on building clean, responsive and user centr
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 #### 🎨 Frontend
 <p align="left">
