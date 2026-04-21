@@ -16,31 +16,31 @@
 
 I am a passionate developer focused on building clean, responsive and user centric digital experiences. Currently, I am expanding my expertise in mobile ecosystems and cloud architecture while seeking **Software Engineering Internships**.
 
-* 📱 **Current Focus:** Masterng **Swift & Xcode** for native iOS development.
-* 🌐 **Web Tech:** Building scalable apps with **React, ASP.NET and PostgreSQL**.
-* 🧩 **Creative Side:** Leveraging **Blender** and **Figma** for 3D design and UI prototyping.
-* 🚀 **Upcoming Project:** [Spoti-List](https://github.com/d4n1elliu/spoti-list) : An upcoming B2C platform designed to transform Spotify Web API data into personalised daily insights for users.
+* **Current Focus:** Masterng **Swift & Xcode** for native iOS development.
+* **Web Tech:** Building scalable apps with **React, ASP.NET and PostgreSQL**.
+* **Creative Side:** Leveraging **Blender** and **Figma** for 3D design and UI prototyping.
+* **Upcoming Project:** [Spoti-List](https://github.com/d4n1elliu/spoti-list) : An upcoming B2C platform designed to transform Spotify Web API data into personalised daily insights for users.
 
 ---
 
 ### Tech Stack
 
-#### 🎨 Frontend
+#### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts" alt="Frontend Stack" />
 </p>
 
-#### ⚙️ Backend & Cloud
+#### Backend & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,postgres,nodejs,azure,docker" alt="Backend Stack" />
 </p>
 
-#### 🧰 Languages
+#### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=swift,java,py,cpp,c,cs,html,css" alt="Languages" />
 </p>
 
-#### 🛠️ Tools
+#### Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,figma,blender,unity," alt="Tools" />
 </p>
