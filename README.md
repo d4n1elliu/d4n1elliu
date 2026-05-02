@@ -14,7 +14,7 @@
 
 ### About Me
 
-I am a passionate developer focused on building clean, responsive and user centric digital experiences. Currently, I am expanding my expertise in mobile ecosystems and cloud architecture while seeking **Software Engineering Internships**.
+I am a passionate developer focused on building clean, responsive and user centric digital experiences. Currently, I am expanding my expertise in mobile ecosystems and fullstack architecture while seeking **Software Engineering Internships**.
 
 * **Current Focus:** Mastering **Swift & Xcode** for native iOS development.
 * **Web Tech:** Building scalable apps with **React, ASP.NET and PostgreSQL**.
