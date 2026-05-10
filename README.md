@@ -39,6 +39,7 @@ I am a passionate developer focused on building clean, responsive and user centr
 <p align="left">
   <img src="https://skillicons.dev/icons?i=swift,firebase" alt="Mobile Stack" />
 </p>
+
 #### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,cpp,c,cs,html,css" alt="Languages" />
