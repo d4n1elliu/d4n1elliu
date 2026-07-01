@@ -19,7 +19,6 @@ I am a passionate developer focused on building clean, responsive and user centr
 * **Current Focus:** Mastering **Swift & Xcode** for native iOS development.
 * **Web Tech:** Building scalable apps with **React, ASP.NET and PostgreSQL**.
 * **Creative Side:** Leveraging **Blender** and **Figma** for 3D design and UI prototyping.
-* **Upcoming Project:** [Spoti-List](https://github.com/d4n1elliu/spoti-list) : An upcoming B2C platform designed to transform Spotify Web API data into personalised daily insights for users.
 
 ---
 
