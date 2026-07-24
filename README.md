@@ -26,7 +26,7 @@ I am a passionate developer focused on building clean, responsive and user centr
 
 #### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,nextjs" alt="Frontend Stack" />
 </p>
 
 #### Backend & Cloud
