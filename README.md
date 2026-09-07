@@ -16,8 +16,8 @@
 
 I am a passionate developer focused on building clean, responsive and user centric digital experiences. Currently, I am expanding my expertise in mobile ecosystems and fullstack architecture while seeking **Software Engineering Internships**.
 
-* **Current Focus:** Mastering **Swift & Xcode** for native iOS development.
-* **Web Tech:** Building scalable apps with **React, ASP.NET and PostgreSQL**.
+* **Current Focus:** Learning **.NET** for backend development.
+* **Web Tech:** Building scalable apps with **React, Typescript, ASP.NET and PostgreSQL**.
 * **Creative Side:** Leveraging **Blender** and **Figma** for 3D design and UI prototyping.
 
 ---
